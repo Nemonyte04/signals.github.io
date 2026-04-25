@@ -20,8 +20,8 @@ This movement shows that issues such as unsafe working conditions, discriminatio
 Ultimately, the success of the Amazon Labor Union at JFK8 is not just about headphones, air conditioning, or paid time off. It is about establishing a model of worker empowerment that challenges corporate authority and redefines what is possible for labor movements in the modern economy (Wikipedia, "Amazon Labor Union").
 
 References:
-Wikipedia. "Chris Smalls." Wikimedia Foundation. https://en.wikipedia.org/wiki/Chris_Smalls. Accessed 18 Apr. 2026.
-McCallum, Will. "Leaked Amazon Memo Details Plan to Smear Fired Warehouse Organizer." VICE, 4 June 2021. https://www.vice.com/en/article/leaked-amazon-memo-details-plan-to-smear-fired-warehouse-organizer-hes-not-smart-or-articulate/
-Iqbal, Mansoor. "Amazon Workers in Staten Island and Christian Smalls." The Guardian, 4 June 2021. https://www.theguardian.com/technology/2021/jun/04/amazon-workers-staten-island-christian-smalls
+Wikipedia. "Chris Smalls." Wikimedia Foundation. https://en.wikipedia.org/wiki/Chris_Smalls. Accessed 18 Apr. 2026. \
+McCallum, Will. "Leaked Amazon Memo Details Plan to Smear Fired Warehouse Organizer." VICE, 4 June 2021. https://www.vice.com/en/article/leaked-amazon-memo-details-plan-to-smear-fired-warehouse-organizer-hes-not-smart-or-articulate/ \
+Iqbal, Mansoor. "Amazon Workers in Staten Island and Christian Smalls." The Guardian, 4 June 2021. https://www.theguardian.com/technology/2021/jun/04/amazon-workers-staten-island-christian-smalls \
 Amazon Labor Union. amazonlaborunion.org. https://www.amazonlaborunion.org/
-Wikipedia. "Amazon Labor Union." Wikimedia Foundation. https://en.wikipedia.org/wiki/Amazon_Labor_UnionSonnet 4.6
+Wikipedia. "Amazon Labor Union." Wikimedia Foundation. https://en.wikipedia.org/wiki/Amazon_Labor_UnionSonnet 4.6 \
