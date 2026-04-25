@@ -1,4 +1,6 @@
 ### Amazon Labour Union
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3tUKO7bRJuXhy0DwzR5-OQIEmATd_3SjRA&s" alt="description" style="max-width:100%; height:auto;">
 On March 30, 2020, Chris Smalls organized a walkout protest in Amazon's JFK8 warehouse (Wikipedia, "Chris Smalls"). Just two weeks ago, Amazon allowed a worker to come into the warehouse with clear symptoms of Covid-19. Later, this was confirmed to be a diagnosed Covid-19 case. Smalls was exposed to this patient, and challenged Amazon's handling of the pandemic. He had previously raised issues with other Amazon policies, alleging Amazon has issues with safety protocols, citing the injury rate, ageism, sexism, racism, and discrimination against caregivers (Wikipedia, "Chris Smalls"). Finally, on March 30, 2020 he walked out with a cohort of his workers in an attempt to protest Amazon's policies. He was fired on the same day (Wikipedia, "Chris Smalls").
 
 ### Amazon's Side
