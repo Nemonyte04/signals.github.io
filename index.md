@@ -11,3 +11,13 @@ The goal is to narrate stories of people who were subjected to injustices by tec
 ![Navajo Uranium Mining](https://www.sciencehistory.org/wp-content/uploads/2023/04/On-Poisoned-Ground_0.jpg)
 
 [Read the full case study →](navajo-case-study.html)
+
+### Amazon Labour Union 
+![Amazon Labour Union](https://www.thenation.com/wp-content/uploads/2024/10/UNION_still6.jpg)
+
+[Read the full case study →](alu.html)
+
+
+## Reforms in Gender-tech Related Oppression: 
+
+### 
