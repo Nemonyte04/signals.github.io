@@ -4,7 +4,7 @@ Non-reformist reform is a reform that threatens the structures of society by cha
 
 The goal is to narrate stories of people who were subjected to injustices by technological systems, and how they took power back from these systems. Throughout this course, we have studied multiple instances of communities suffering because of institutional neglect and power structures, and these stories should serve as an example for people trying to fight back against these structures. These injustices do not arise due to ignorance, but are ingrained and often incentivized in the current system. When breakdowns keep repeating, you can only swap out so many parts before you confront the design itself. At some point, justice demands not another fix, but a new machine entirely.
 
-## Reforms in Race and Ethnicity-Related Oppression
+## Reforms in Race and Ethnicity-Related Oppression:
 
 ### The Navajo Uranium Mining Crisis and the Radiation Exposure Compensation Act
 
@@ -12,12 +12,16 @@ The goal is to narrate stories of people who were subjected to injustices by tec
 
 [Read the full case study →](navajo-case-study.html)
 
-### Amazon Labour Union 
+### Amazon Labour Union: 
+
 ![Amazon Labour Union](https://image.cnbcfm.com/api/v1/image/107091850-1658366783760-GettyImages-1239668180.jpeg?v=1674164566)
 
 [Read the full case study →](alu.html)
 
 
-## Reforms in Gender-tech Related Oppression: 
+## Reforms in Urban-Developement Tech: 
+### Chipkoo Movememt: 
 
+
+## Reforms in Medical Tech: 
 
