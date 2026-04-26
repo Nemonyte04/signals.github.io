@@ -1,6 +1,6 @@
 ## Tuskegee Syphilis Study:
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tuskegee-syphilis-study_doctor-injecting-subject.jpg/960px-Tuskegee-syphilis-study_doctor-injecting-subject.jpg" style =>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tuskegee-syphilis-study_doctor-injecting-subject.jpg/960px-Tuskegee-syphilis-study_doctor-injecting-subject.jpg" style="max-width:100%; height:auto;" >
 
 ### Background:
 
