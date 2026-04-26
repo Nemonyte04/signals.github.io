@@ -25,7 +25,7 @@ The goal is to narrate stories of people who were subjected to injustices by tec
 
 ![Chipko Movement](https://earth.org/wp-content/uploads/2024/06/Untitled-683-x-1024-px-12-1200x800.jpg)
 
-[Read the full case study →](chipkoo.html)
+[Read the full case study →](chipko.html)
 
 ## Reforms in Medical Tech: 
 
