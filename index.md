@@ -27,7 +27,7 @@ The goal is to narrate stories of people who were subjected to injustices by tec
 
 [Read the full case study →](chipko.html)
 
-### The Dudley Street Neighborhood Initiative
+### The Dudley Street Neighborhood Initiative:
 
 ![The Dudley Street Neighborhood Initiative](https://holdinggroundproductions.com/wp-hgp/wp-content/uploads/2014/10/DSNI-photo.jpg)
 
