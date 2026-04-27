@@ -1,4 +1,4 @@
-# Non-reformist reforms in technological systems: A collection of case studies that highlight how People Challenge Technological Systems - By Adip Shrestha, Ethan Lin, Namit Misra.
+# Non-reformist reforms in technological systems or supression due to modernization: A collection of case studies that highlight how People Challenge Technological Systems - By Adip Shrestha, Ethan Lin, Namit Misra.
 
 Non-reformist reform is a reform that threatens the structures of society by challenging existing power relations and prioritizing demands regardless of if they are possible within the frameworks of the current system. Unlike reformist reforms, where the goal of the reform is to tweak the status quo, non-reformist reforms aim to transform or replace it entirely. Our project highlights cases where collective action has pushed beyond surface-level fixes toward more fundamental shifts and systemic changes. This blog will be categorized into three sections, highlighting key reforms in medical tech, urban development, and gender and race related innovations, with 2 case studies in each section.
 
