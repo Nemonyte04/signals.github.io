@@ -1,6 +1,6 @@
 ## The History of Women’s Contraceptives:
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oral_contraceptive_pill_pack.jpg/960px-Oral_contraceptive_pill_pack.jpg" style="max-width:100%; height:auto;" >
+<img src = "https://www.pbs.org/wgbh/americanexperience/media/filer_public_thumbnails/filer_public/56/a6/56a6cc5c-1fec-4dbe-a261-0072b204d0f3/pill_puerto-rico-1pri.jpg__2000x1228_q85_crop_subsampling-2_upscale.jpg" style="max-width:100%; height:auto;" >
 
 ### Background:
 
