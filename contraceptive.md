@@ -32,6 +32,8 @@ The reforms that followed were different on a social scale. The requirement for 
 
 In this way, contraceptive reform can be understood as a non-reformist reform. Rather than simply improving existing technologies, these changes disrupted the underlying power dynamics between patients and institutions. By redefining women’s role from subjects of control to active decision-makers, the movement transformed not only medical practices but also the broader relationship between individuals with less power and the healthcare system.
 
+Hello World
+
 References:
 
 “A History of Medical Device Regulation & Oversight in the United States.” FDA, 8 July 2019, www.fda.gov/medical-devices/overview-device-regulation/history-medical-device-regulation-oversight-united-states.
